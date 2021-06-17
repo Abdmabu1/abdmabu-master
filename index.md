@@ -1,7 +1,7 @@
 
 
 # Learn how Make a Website with Only Markdown
-
+<img src="sales-skills-traits-success-complete-list.jpg">
 Learn how to use Markdown on GitHub to make a nice-looking website without
 the use of a special editor or command line tools.
 
