@@ -1,8 +1,4 @@
----
-title: "Make a Website with Only Markdown"
-permalink: /
-layout: default
----
+
 
 # Learn how Make a Website with Only Markdown
 
